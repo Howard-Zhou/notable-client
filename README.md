@@ -9,3 +9,6 @@ To Install dependencies, run:
 
 To Run the App on localhost:3000, run:
 ### `yarn start`
+
+The Styling isn't the best, but I want to go fast.
+Used simple-flexbox for column layout
